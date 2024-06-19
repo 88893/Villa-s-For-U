@@ -1,0 +1,21 @@
+:root {
+  --color1: #000080;
+  --color2: #66ccff;
+  --color3: #0099cc;
+  --background-white: #ffffff;
+  --text-color-black: #333333;
+  --text-color-white: white;
+  --text-color-gold: #caaf13;
+  --error: rgb(121, 0, 0);
+}
+
+/*   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+ */
+
+:root {
+  --contactwhite: #fff;
+  --contactgrey: #ccc;
+  --contactdark_grey: #555;
+  --contactblue: #4f6fad;
+  --contactpink: #ee9cb4;
+}
